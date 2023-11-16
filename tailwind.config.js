@@ -6,7 +6,17 @@ export default {
     "node_modules/flowbite-react/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        mulish: ["Mulish", "sans-serif"],
+      },
+      colors: {
+        myBlue: "#458FF6;",
+      },
+      screens: {
+        wide: "1440px",
+      },
+    },
   },
   plugins: [require("flowbite/plugin")],
 };

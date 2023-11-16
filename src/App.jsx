@@ -1,7 +1,12 @@
+import Hero from "./sections/Hero";
+import { Nav } from "./sections/Nav";
+import Services from "./sections/Services";
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <Nav />
+      <Hero />
+      <Services />
     </>
   );
 }
