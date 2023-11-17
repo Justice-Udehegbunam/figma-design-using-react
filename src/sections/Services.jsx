@@ -6,7 +6,9 @@ import ButtonType2 from "../components/ButtonType2";
 const Services = () => {
   return (
     <section className="font-mulish flex items-center justify-center flex-col w-[70%] mx-auto">
-      <h2 className="font-semibold text-3xl mb-4">Our services</h2>
+      <h2 className="font-semibold text-[24px] md:text-[36px]  mb-4">
+        Our services
+      </h2>
       <div className="w-12 h-[2px] bg-black rounded mb-4"></div>
       <p className="opacity-70">
         We provide to you the best choiches for you. Adjust it to your health

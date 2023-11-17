@@ -2,6 +2,7 @@ import Hero from "./sections/Hero";
 import { Nav } from "./sections/Nav";
 import Services from "./sections/Services";
 import { Vector1, element } from "./assets/icons";
+import { HealthCare } from "./sections/HealthCare";
 function App() {
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
           <Services />
         </div>
       </div>
+      <HealthCare />
     </>
   );
 }
