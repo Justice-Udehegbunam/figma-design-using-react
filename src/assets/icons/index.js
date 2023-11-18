@@ -6,5 +6,16 @@ import frame4 from "./Frame (4).png";
 import firstframe from "./Frame.png";
 import frame5 from "./Frame (5).png";
 import Vector1 from "./Vector1.png";
+import Arrow from "./Arrow.svg";
 
-export { element, frame1, frame2, frame3, frame4, firstframe, frame5, Vector1 };
+export {
+  element,
+  frame1,
+  frame2,
+  frame3,
+  frame4,
+  firstframe,
+  frame5,
+  Vector1,
+  Arrow,
+};

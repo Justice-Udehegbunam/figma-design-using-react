@@ -1,8 +1,9 @@
 import Hero from "./sections/Hero";
 import { Nav } from "./sections/Nav";
 import Services from "./sections/Services";
-import { Vector1, element } from "./assets/icons";
+import { Vector1 } from "./assets/icons";
 import { HealthCare } from "./sections/HealthCare";
+import MobileApp from "./sections/MobileApp";
 function App() {
   return (
     <>
@@ -17,6 +18,7 @@ function App() {
         </div>
       </div>
       <HealthCare />
+      <MobileApp />
     </>
   );
 }

@@ -16,6 +16,9 @@ export default {
       screens: {
         wide: "1440px",
       },
+      borderColor: {
+        black: "#000",
+      },
     },
   },
   plugins: [require("flowbite/plugin")],
