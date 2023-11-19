@@ -7,7 +7,7 @@ import { Element } from "react-scroll";
 const MobileApp = () => {
   return (
     <Element name="apps">
-      <section className="font-mulish flex flex-col-reverse items-center lg:flex-row  justify-between  w-[72%] mx-auto gap-10 mt-28 ">
+      <section className="font-mulish flex flex-col-reverse items-center lg:flex-row  justify-between  w-[72%] mx-auto gap-10 mt-28 max-w-[1318px] ">
         <div className="">
           <h2 className="text-[24px] lg:text-[36px] font-semibold mb-4 leading-normal text-center lg:text-left">
             Download our mobile apps

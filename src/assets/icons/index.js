@@ -7,6 +7,9 @@ import firstframe from "./Frame.png";
 import frame5 from "./Frame (5).png";
 import Vector1 from "./Vector1.png";
 import Arrow from "./Arrow.svg";
+import ArrowLeft from "./ArrowLeft.png";
+import ArrowRight from "./ArrowRight.png";
+import Slider from "./slider.png";
 
 export {
   element,
@@ -18,4 +21,7 @@ export {
   frame5,
   Vector1,
   Arrow,
+  ArrowLeft,
+  ArrowRight,
+  Slider,
 };

@@ -5,7 +5,7 @@ import ButtonType2 from "../components/ButtonType2";
 
 const Services = () => {
   return (
-    <section className="font-mulish flex items-center justify-center flex-col w-[70%] mx-auto mt-28">
+    <section className="font-mulish flex items-center justify-center flex-col w-[70%] mx-auto mt-28 max-w-[1318px]">
       <h2 className="font-semibold text-[24px] lg:text-[36px]  mb-4">
         Our services
       </h2>

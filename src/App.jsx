@@ -4,6 +4,7 @@ import Services from "./sections/Services";
 import { Vector1 } from "./assets/icons";
 import { HealthCare } from "./sections/HealthCare";
 import MobileApp from "./sections/MobileApp";
+import Testimonials from "./sections/Testimonials";
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
       </div>
       <HealthCare />
       <MobileApp />
+      <Testimonials />
     </>
   );
 }
