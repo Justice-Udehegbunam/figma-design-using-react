@@ -5,6 +5,8 @@ import { Vector1 } from "./assets/icons";
 import { HealthCare } from "./sections/HealthCare";
 import MobileApp from "./sections/MobileApp";
 import Testimonials from "./sections/Testimonials";
+import LatestArticle from "./sections/LatestArticle";
+import Footer from "./sections/Footer";
 function App() {
   return (
     <>
@@ -21,6 +23,9 @@ function App() {
       <HealthCare />
       <MobileApp />
       <Testimonials />
+
+      <LatestArticle />
+      <Footer />
     </>
   );
 }

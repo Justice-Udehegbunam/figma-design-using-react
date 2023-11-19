@@ -10,6 +10,7 @@ import Arrow from "./Arrow.svg";
 import ArrowLeft from "./ArrowLeft.png";
 import ArrowRight from "./ArrowRight.png";
 import Slider from "./slider.png";
+import secondelement from "./2ndelement.png";
 
 export {
   element,
@@ -24,4 +25,5 @@ export {
   ArrowLeft,
   ArrowRight,
   Slider,
+  secondelement,
 };

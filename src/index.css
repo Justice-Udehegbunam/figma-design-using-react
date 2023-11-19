@@ -16,4 +16,8 @@
   .myBackground {
     background: linear-gradient(to right, #458ff6, #6196e0);
   }
+
+  .footerBg {
+    background: linear-gradient(to bottom, #458ff6, #6196e0);
+  }
 }
